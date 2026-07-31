@@ -68,7 +68,7 @@ Portfolio: nethmisandalika.netlify.app
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/NETHMI SANDALIKA">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -78,4 +78,4 @@ Portfolio: nethmisandalika.netlify.app
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
