@@ -10,8 +10,8 @@ I'm passionate about building modern web applications and continuously learning 
 
 - 🎓 ICT Undergraduate
 - 💻 Interested in Full Stack Development
-- 🌱 Currently learning React, Node.js and Java
-- 📫 Email: youremail@gmail.com
+- 🌱 Currently learning React, Node.js, html, css,and Java
+- 📫 Email:nsandalika40@gmail.com
 
 ---
 
@@ -35,12 +35,13 @@ I'm passionate about building modern web applications and continuously learning 
 
 - 🌐 Portfolio Website
 - 🩸 Blood Bank Management System
-- 📚 Accounting Assignment System
+- 📚 Heritage Hunt Website
+- 📚 UOV Update System Website
 
 ---
 
 ## 📫 Connect with me
 
-LinkedIn:
-GitHub:
-Portfolio:
+LinkedIn: https://linkedin.com
+GitHub: https://github.com
+Portfolio: nethmisandalika.netlify.app
